@@ -76,4 +76,15 @@
 
 ## 3 머신러닝 모델 상품화 플랫폼
 
-- T.B.D
+### 1 MLFlow
+
+머신러닝 프로젝트를 관리하기 위한 오픈소스 플랫폼
+
+![](https://miro.medium.com/v2/resize:fit:930/1*-BX3BpJxSZroJkSiwNRfGg.png)
+
+구성요소
+
+- MLFlow Tracking : 머신러닝 모델 학습 결과를 추적하고, 다양한 프레임워크에서 동작할 수 있는 학습 코드의 재현성을 보장하는 기능
+- MLFlow Projects : 머신러닝 프로젝트의 코드, 환경 설정, 종속성 등을 관리
+- MLFlow Models : 학습된 머신러닝 모델을 관리하고, 다양한 환경에서 모델을 배포할 수 있는 기능 제공
+- MLFlow Registry : 모델 버전을 관리하고, 공동 작업을 위한 모델 저장소를 제공
