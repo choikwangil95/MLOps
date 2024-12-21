@@ -72,7 +72,14 @@
 
 ## 2 머신러닝 모델 상품화 인프라
 
-- T.B.D
+https://github.com/choikwangil95/MLOps/blob/main/lecture/2_ML_MLOps/3_ML_Infra.md
+
+- Storage
+- Computing Resource
+- Container ex) Docker
+- Orchestrator ex) k8s
+- Workflow Management ex) MLFlow
+- CI/CD
 
 ## 3 머신러닝 모델 상품화 플랫폼
 
