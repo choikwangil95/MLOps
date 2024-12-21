@@ -7,7 +7,8 @@
 ## 목차
 
 - [1 머신러닝 모델 상품화 과정](1-머신러닝-모델-상품화-과정)
-- [2 머신러닝 모델 상품화 인프라](1-머신러닝-모델-상품화-인프라)
+- [2 머신러닝 모델 상품화 인프라](2-머신러닝-모델-상품화-인프라)
+- [3 머신러닝 모델 상품화 플랫폼](3-머신러닝-모델-상품화-플랫폼)
 
 ## 1 머신러닝 모델 상품화 과정
 
@@ -62,13 +63,17 @@
 
 ### 4 Model Training & Analysis
 
-#### 비교분석 예시
+- Base Model Learning
+- Optimization
+  - Optimization 1 : ML with Feature Selection (No samping)
+  - Optimization 2 : ML with Feature selection and Combined Sampling
+  - Optimization 3 : ML with Feature Selection and No Combined Sampilng + Cost Sensitive Learning
+- Base Model과 Optimization Model간의 roc_auc_score 비교
 
-- 1 base model without sampling
-- 2 model optimization with base feature
-- 3 model optimization with smote oversampling
-- 4 model optimization with smoteenn combined sampling
+## 2 머신러닝 모델 상품화 인프라
 
-## 머신러닝 모델 상품화 인프라
+- T.B.D
+
+## 3 머신러닝 모델 상품화 플랫폼
 
 - T.B.D
