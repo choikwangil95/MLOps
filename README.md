@@ -5,12 +5,13 @@
 ![](https://www.databricks.com/sites/default/files/inline-images/mlops-cycle.png)
 
 ## 목차
+머신러닝 모델 상품화 과정
+- [1 모델 학습](1-모델-학습)
+- [2 인프라](2-인프라)
+- [3 플랫폼](3-플랫폼)
+- [4 상용화](4-상용화)
 
-- [1 머신러닝 모델 상품화 과정](1-머신러닝-모델-상품화-과정)
-- [2 머신러닝 모델 상품화 인프라](2-머신러닝-모델-상품화-인프라)
-- [3 머신러닝 모델 상품화 플랫폼](3-머신러닝-모델-상품화-플랫폼)
-
-## 1 머신러닝 모델 상품화 과정
+## 1 모델 학습
 
 ### 1 문제정의
 
@@ -70,7 +71,7 @@
   - Optimization 3 : ML with Feature Selection and No Combined Sampilng + Cost Sensitive Learning
 - Base Model과 Optimization Model간의 roc_auc_score 비교
 
-## 2 머신러닝 모델 상품화 인프라
+## 2 인프라
 
 https://github.com/choikwangil95/MLOps/blob/main/lecture/2_ML_MLOps/3_ML_Infra.md
 
@@ -81,7 +82,7 @@ https://github.com/choikwangil95/MLOps/blob/main/lecture/2_ML_MLOps/3_ML_Infra.m
 - Workflow Management ex) MLFlow
 - CI/CD
 
-## 3 머신러닝 모델 상품화 플랫폼
+## 3 플랫폼
 
 ### 1 MLFlow
 
@@ -95,3 +96,7 @@ https://github.com/choikwangil95/MLOps/blob/main/lecture/2_ML_MLOps/3_ML_Infra.m
 - MLFlow Projects : 머신러닝 프로젝트의 코드, 환경 설정, 종속성 등을 관리
 - MLFlow Models : 학습된 머신러닝 모델을 관리하고, 다양한 환경에서 모델을 배포할 수 있는 기능 제공
 - MLFlow Registry : 모델 버전을 관리하고, 공동 작업을 위한 모델 저장소를 제공
+
+## 4 상용화
+### 1 NLP 모델의 실시간 API 서빙 및 인증 기반 사용량 모니터링 파이프라인 구축
+- T.B.D
