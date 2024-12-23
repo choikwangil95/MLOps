@@ -99,4 +99,7 @@ https://github.com/choikwangil95/MLOps/blob/main/lecture/2_ML_MLOps/3_ML_Infra.m
 
 ## 4 상용화
 ### 1 NLP 모델의 실시간 API 서빙 및 인증 기반 사용량 모니터링 파이프라인 구축
+
+<img width="1024" alt="스크린샷 2024-12-23 오후 2 00 13" src="https://github.com/user-attachments/assets/2058fdab-a529-4e77-9606-3b5e572ffb52" />
+
 - T.B.D
