@@ -102,4 +102,7 @@ https://github.com/choikwangil95/MLOps/blob/main/lecture/2_ML_MLOps/3_ML_Infra.m
 
 <img width="1024" alt="스크린샷 2024-12-23 오후 2 00 13" src="https://github.com/user-attachments/assets/2058fdab-a529-4e77-9606-3b5e572ffb52" />
 
-- T.B.D
+- 1 GCS 모델 업로드 라이브러리
+- 2 K8S 모델 API
+- 3 Nginx Ingress 기반 API 인증
+- 4 로그 기반 API 사용량 모니터링  
