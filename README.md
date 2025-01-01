@@ -39,7 +39,7 @@
 
 Imbalance data set 확인 및 해결 필요
 
-![Alt text](image.png)
+![Alt text](./images/image.png)
 
 - 데이터 기반 접근 방법: sampling
 - ML 알고리즘 기반 접근방법: cost-sensitive learning
@@ -48,11 +48,11 @@ Imbalance data set 확인 및 해결 필요
 
 column별 분포 확인
 
-![Alt text](image-1.png)
+![Alt text](./images/image-1.png)
 
 target column과의 분포 확인
 
-![Alt text](image-2.png)
+![Alt text](./images/image-2.png)
 
 target column과의 상관관계 확인 (카이제곱 검정)
 
@@ -76,15 +76,15 @@ print("selected columns by chi : ", len(list_meaningful_column_by_chi), list_mea
 
 column별 분포 확인
 
-![Alt text](image-3.png)
+![Alt text](./images/image-3.png)
 
 column간의 상관관계 확인 (Correlation Analysis, VIF Analysis)
 
-![Alt text](image-4.png)
+![Alt text](./images/image-4.png)
 
 target column과의 분포 확인
 
-![Alt text](image-5.png)
+![Alt text](./images/image-5.png)
 
 target column과의 유의미 관계 확인 (크루스칼 왈리스 검정)
 
@@ -124,9 +124,9 @@ print("정규성 만족하는 column 수 : ", len(list_column_normality))
 
 #### Model Matrix
 
-![Alt text](image-6.png)
-![Alt text](image-7.png)
-![Alt text](image-8.png)
+![Alt text](./images/image-6.png)
+![Alt text](./images/image-7.png)
+![Alt text](./images/image-8.png)
 
 - Accuracy(정확도) = (TP+TN)/(TP+FN+FP+TN))
 - Precision(정밀도) = (TP)/(TP+FP)
