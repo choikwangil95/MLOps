@@ -32,8 +32,8 @@
 
 #### 불필요 데이터 제거
 
-- 중복된 data 제거
-- N/A Data 처리
+- 중복 data 제거
+- 결측 Data 제거 및 대치
 
 #### Dependent(종속) Data Explore
 
