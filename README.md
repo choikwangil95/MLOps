@@ -34,6 +34,8 @@
 
 - 중복 data 제거
 - 결측 Data 제거 및 대치
+- 이상 데이터 처리
+- 불필요 데이터 확인 (고유값확인)
 
 #### Dependent(종속) Data Explore
 
